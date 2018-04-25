@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     /*    ArrayList<String> items = new ArrayList<String>();
         items.add("Rick");
         items.add("Morty");
-        items.add("Summer");
+        items.add("Summer");    this is some additional text how fast does it notice? do i need to save?
         items.add("Beth");
         items.add("Not Jerry");*/
 
